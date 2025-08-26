@@ -27,7 +27,7 @@ This Proof of Concept (PoC) demonstrates the core mechanics of a **community-gov
 
 ## 1. Clone the Repository
 ```
-git clone https://github.com/<your-username>/treasure-dao-hunt.git
+git clone https://github.com/Kaelvnode/treasure-dao-hunt.git
 cd treasure-dao-hunt-poc
 ```
 ## Install Dependencies
